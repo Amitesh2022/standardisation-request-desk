@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Standards guidance</span><h2>Every standardisation request needs a clear policy need, technical evidence and inclusive consultation</h2><p>Policy teams, standards bodies, industry experts and civil society can coordinate scope, evidence, consensus and accountable owners.</p></section></template>
